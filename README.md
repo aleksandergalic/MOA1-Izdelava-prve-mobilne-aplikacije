@@ -1,2 +1,2 @@
-# Mobilne-aplikacije-Naloga-1
+# MOA1-Izdelava-prve-mobilne-aplikacije
 Prva mobilna aplikacija
